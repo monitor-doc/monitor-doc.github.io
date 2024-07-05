@@ -4,11 +4,6 @@
   "author": "xunlian",
   "description": "监控教程和使用",
   "language": "zh-hans",
-  "links": {
-    "sidebar": {
-      "个人主页": "http://monitor-doc.xunlian.co"
-    }
-  },
   "pdf": {
     "pageNumbers": true,
     "fontFamily": "Arial",
