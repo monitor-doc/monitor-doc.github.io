@@ -40,7 +40,6 @@
     "alerts",
     "flexible-alerts",
     "auto-scroll-table",
-    "lightbox",
     "-popup",
     "tbfed-pagefooter",
     "-page-footer",
@@ -85,14 +84,6 @@
         "label": "Comment",
         "icon": "fa fa-comments",
         "className": "info"
-      }
-    },
-    "lightbox": {
-      "includeJQuery": false,
-      "sameUuid": true,
-      "options": {
-        "resizeDuration": 200,
-        "wrapAround": true
       }
     },
     "tbfed-pagefooter": {
