@@ -11,4 +11,5 @@
 
 ## 常见问题 <a href="#qa" id="qa"></a>
 
-* [Page 1](qa/page-1.md)
+* [如何检查网络？](qa/checknetwork.md)
+* [联系我们](qa/contactus.md)
