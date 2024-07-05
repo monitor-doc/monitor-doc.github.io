@@ -5,4 +5,4 @@
 
 ## 目录1
 
-* [子菜单1](mu-lu-1/zi-cai-dan-1.md)
+* [子菜单1](dir1/zi-cai-dan-1.md)
