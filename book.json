@@ -1,7 +1,114 @@
 {
+  "root": ".",
+  "title": "监控教程",
+  "author": "xunlian",
+  "description": "监控教程和使用",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "个人主页": "http://monitor-doc.xunlian.co",
+    }
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontFamily": "Arial",
+    "fontSize": 16,
+    "paperSize": "a4",
+    "margin": {
+      "right": 0,
+      "left": 0,
+      "top": 0,
+      "bottom": 0
+    }
+  },
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-highlight",
+    "favicon",
+    "search-pro",
+    "splitter",
+    "github",
+    "sharing-plus",
+    "-copy-code-button",
+    "code",
+    "advanced-emoji",
+    "emphasize",
+    "image-captions",
+    "anchor-navigation-expand",
+    "alerts",
+    "flexible-alerts",
+    "auto-scroll-table",
+    "lightbox",
+    "-popup",
+    "tbfed-pagefooter",
+    "-page-footer",
+    "hide-element",
+    "-back-to-top-button",
+    "prism",
+    "chapter-fold",
+    "-expandable-chapters-small",
+    "-expandable-chapters"
+  ],
   "pluginsConfig": {
-    "theme-default": {
-      "showLevel": true
+    "favicon": {
+      "shortcut": "./images/icon/favicon.png",
+      "bookmark": "./images/icon/favicon.png",
+      "appleTouch": "./images/icon/favicon.png",
+      "appleTouchMore": {
+        "120x120": "./images/icon/favicon.png",
+        "180x180": "./images/icon/favicon.png"
+      }
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": false,
+      "twitter": false,
+      "weibo": false,
+      "all": []
+    },
+    "code": {
+      "copyButtons": true
+    },
+    "image-captions": {
+      "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+      "align": "left"
+    },
+    "flexible-alerts": {
+      "style": "callout",
+      "comment": {
+        "label": "Comment",
+        "icon": "fa fa-comments",
+        "className": "info"
+      }
+    },
+    "lightbox": {
+      "includeJQuery": false,
+      "sameUuid": true,
+      "options": {
+        "resizeDuration": 200,
+        "wrapAround": true
+      }
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright ©xunlian",
+      "modify_label": "更新时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "hide-element": {
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-tomorrow.css"
+      ]
     }
   }
 }
