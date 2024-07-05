@@ -14,6 +14,22 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: mkdir out
+
+      - name: install nodejs
+        uses: actions/setup-node@v1
+
+      - name: configue gitbook
+        run: |
+          npm install -g gitbook-cli          
+          gitbook install
+          npm install -g gitbook-summary
+
+      - name: generate _book folder
+        run: |
+          book sm
+          gitbook build
+          cp SUMMARY.md _book
+
       - name: Deploy
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
