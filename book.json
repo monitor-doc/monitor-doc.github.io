@@ -38,8 +38,6 @@
     "-page-footer",
     "hide-element",
     "-back-to-top-button",
-    "prism",
-    "chapter-fold",
     "-expandable-chapters-small",
     "-expandable-chapters"
   ],
@@ -87,11 +85,6 @@
     "hide-element": {
       "elements": [
         ".gitbook-link"
-      ]
-    },
-    "prism": {
-      "css": [
-        "prismjs/themes/prism-tomorrow.css"
       ]
     }
   }
