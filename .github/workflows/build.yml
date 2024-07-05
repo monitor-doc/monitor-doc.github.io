@@ -30,7 +30,6 @@ jobs:
           gitbook build
           pwd
           ls -la
-#          cp SUMMARY.md _book
           cd _book
           pwd
           ls -la
