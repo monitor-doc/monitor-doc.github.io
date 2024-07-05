@@ -1,9 +1,10 @@
 # Table of contents
 
-* [说明](README.md)
+* [📖 寻链云监控--参与Depin更容易](README.md)
+* [接入准备](jie-ru-zhun-bei.md)
+* [开始接入](kai-shi-jie-ru.md)
 
-## 系统说明
+## Depin项目部署讲解
 
-* [CESS部署说明](xi-tong-shuo-ming/di-er-ge-biao-ti.md)
-* [链节点](xi-tong-shuo-ming/zi-cai-dan-1.md)
-* [存储节点](xi-tong-shuo-ming/cun-chu-jie-dian.md)
+* [ALEO](depin-xiang-mu-bu-shu-jiang-jie/aleo.md)
+* [CESS](depin-xiang-mu-bu-shu-jiang-jie/cess.md)
