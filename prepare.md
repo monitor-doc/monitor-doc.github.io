@@ -8,6 +8,6 @@ description: 介绍接入寻链云监控的准备工作
 
 ## 2.确保网络状态良好。
 
-[如何检查网络？](qa/checknetwork.md)
+[检查网络连接是否畅通](qa/checknetwork.md#jian-cha-wang-luo-lian-jie-shi-fou-chang-tong)
 
 ## 3.安装好Ubuntu操作系统。

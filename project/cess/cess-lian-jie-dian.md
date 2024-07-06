@@ -1,18 +1,20 @@
 ---
-description: cesss
+description: CESS
 ---
 
-# cess链节点
+# CESS链节点
 
 ## 链节点 <a href="#lian-jie-dian" id="lian-jie-dian"></a>
 
 ### 建议一台机器一个链节点 <a href="#jian-yi-yi-tai-ji-qi-yi-ge-lian-jie-dian" id="jian-yi-yi-tai-ji-qi-yi-ge-lian-jie-dian"></a>
 
-一台机器部署一个链节点，部署多个存储节点，存储节点共用这个链节点
+一台机器部署一个链节点，部署多个存储节点，存储节点共用这个链节点。
 
-### 新增加cess链节点参数说明 <a href="#xin-zeng-jia-cess-lian-jie-dian-can-shu-shuo-ming" id="xin-zeng-jia-cess-lian-jie-dian-can-shu-shuo-ming"></a>
+### 新增加CESS链节点参数说明 <a href="#xin-zeng-jia-cess-lian-jie-dian-can-shu-shuo-ming" id="xin-zeng-jia-cess-lian-jie-dian-can-shu-shuo-ming"></a>
 
-点击cess链节点菜单，新增链节点
+点击“创建链节点”按钮，新增链节点。
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * 部署目录
 

@@ -4,13 +4,13 @@ description: 介绍接入寻链云监控的接入操作
 
 # 开始接入
 
-## 1.打开寻链云监控网址：[https://monitor.xunlian.co/](https://monitor-magua.xunlian.co/)
+### 1.打开寻链云监控网址：[https://monitor.xunlian.co/](https://monitor-magua.xunlian.co/)
 
-## 2.注册登录。目前支持微信扫码注册和登录，登录后可绑定手机号和设置登录密码，绑定手机号后并设置登录密码后也可通过手机号密码登录。
+### 2.注册登录。目前支持微信扫码注册和登录，登录后可绑定手机号和设置登录密码，绑定手机号后并设置登录密码后也可通过手机号密码登录。
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-## 3.打开设备菜单，点击添加设备，复制监控安装命令。
+### 3.打开“设备”菜单，点击“添加设备”，“复制”监控安装命令。
 
 <div data-full-width="false">
 
@@ -18,17 +18,21 @@ description: 介绍接入寻链云监控的接入操作
 
 </div>
 
-## 4.进入设备操作系统，切换到root账号，如何切换到root账号？命令：
+### 4.进入设备操作系统，[切换到root权限](qa/checknetwork.md#qie-huan-dao-root-quan-xian)。
 
-```bash
-sudo -i
+### 5.粘贴命令执行。
+
+```
+bash <(curl https://monitor.xunlian.co/api/install/唯一识别码)
 ```
 
-## 5.粘贴命令执行。看到如下结果即为安装成功。
+PS：上面命令是个参考，每个用户的命令是不一样的。
 
-安装成功截图？
+### 6.看到如下结果即为安装成功。
 
-安装失败截图？
+安装成功截图
+
+安装失败截图
 
 常见安装失败的原因。
 
