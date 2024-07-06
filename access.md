@@ -21,7 +21,7 @@ description: 介绍接入寻链云监控的接入操作
 ## 4.进入设备操作系统，切换到root账号，如何切换到root账号？命令：
 
 ```bash
-bash <(curl https://monitor.xunlian.co/api/install/每个人不一样)
+sudo -i
 ```
 
 ## 5.粘贴命令执行。看到如下结果即为安装成功。
