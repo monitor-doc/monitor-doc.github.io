@@ -20,6 +20,11 @@ description: 介绍接入寻链云监控的接入操作
 
 ### 4.进入设备操作系统，[切换到root权限](qa/checknetwork.md#qie-huan-dao-root-quan-xian)。
 
+```
+sudo -i
+然后输入当前用户密码
+```
+
 ### 5.粘贴命令执行。
 
 ```
