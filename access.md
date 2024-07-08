@@ -18,7 +18,7 @@ description: 介绍接入寻链云监控的接入操作
 
 </div>
 
-### 4.进入设备操作系统，[切换到root权限](qa/checknetwork.md#qie-huan-dao-root-quan-xian)。
+### 4.进入设备操作系统，[切换到root权限](qa/command.md#qie-huan-dao-root-quan-xian)。
 
 ```
 sudo -i
