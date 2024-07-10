@@ -37,9 +37,16 @@ PS：上面命令是个参考，每个用户的命令是不一样的。
 
 安装成功截图
 
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 安装失败截图
 
+
+
 常见安装失败的原因。
+
+* 没有使用root用户执行
+* 网络不通
 
 PS：内测阶段一个账号限制安装5台设备。如需安装更多设备，请[联系我们](qa/contactus.md)。
 

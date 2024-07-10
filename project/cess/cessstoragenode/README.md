@@ -14,7 +14,11 @@ description: CESS
 
 点击“创建存储节点”按钮，新增存储节点。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 * 序号
 
@@ -57,3 +61,11 @@ description: CESS
 你收钱的地址
 
 * 镜像
+
+可以使用自己的镜像，官方的镜像在github需要科学的访问渠道
+
+
+
+新增成功
+
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
