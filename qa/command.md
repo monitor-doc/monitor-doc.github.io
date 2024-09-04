@@ -1,4 +1,4 @@
-# 可能会用到的Linux命令
+# 常用命令
 
 #### 切换到root权限
 
@@ -16,4 +16,5 @@ ifconfig
 
 ```
 ping -c 4 223.5.5.5
+ping -c qq.com
 ```
